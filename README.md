@@ -10,7 +10,7 @@ An important event in the development or history of something or in someone’s 
 The following data were extracted from existing CDC milestones, articles selected for review, and developmental resources: individual milestones, supporting references, and any normative data or published clinical opinion for the milestone.
 
 ### Tools Used
-- Microsoft Excel [ Download Here] (https://www.microsoft.com)
+- Microsoft Excel [ Download Here](https://www.microsoft.com).
   1. For Data Cleaning
   2. Analysis
   3. Data Virtualization
