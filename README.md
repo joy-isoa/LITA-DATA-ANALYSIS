@@ -19,3 +19,18 @@ The following data were extracted from existing CDC milestones, articles selecte
 
 - Github for Portfolio Building
 
+### Data Cleansing and Preparations
+This include the followings;
+1. Data Loading and Inspection
+2. Handling missing Variables
+3. Data Cleaning and Formatting
+
+### Data Analysis
+This involves DAX expression used during analysis;
+
+```SQL
+SELECT * FROM TABLE 1
+WHERE CONDITION = TRUE
+```
+
+
